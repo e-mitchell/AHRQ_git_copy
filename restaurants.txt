@@ -1,2 +1,4 @@
 Sprouts ~ 0.2 miles
 Starbucks ~0.1 miles
+
+Subway ~ 0.5 miles
